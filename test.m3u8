@@ -11,3 +11,5 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title="English News " tvg-logo="https://i.imgur.com/x5Mdzwv.png",TeleSUR Venezuela
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/b3nn216.png",MTA Ahmadiyya UK
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
