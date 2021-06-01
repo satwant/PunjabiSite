@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/X9LBFzK.jpg",QVTV Canada
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/LdGWsGj.png",Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/LdGWsGj.png",Prime Asia Canada
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/AhbJjPL.jpg",Sardari TV Canada
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/rEKsf20.jpg",Prime Canada Pakistan
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://i.imgur.com/PkWndsv.png",Toronto 360 Canada Pakistan
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/VsvBUCa.jpg",Bloomberg TV Australia 1
