@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/X9LBFzK.jpg",QVTV Canada
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/LdGWsGj.png",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/LdGWsGj.png",Prime Asia Canada
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/AhbJjPL.jpg",Sardari TV Canada
