@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="France;News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English High
+#EXTINF:-1 group-title="France; News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="France;News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English Low
+#EXTINF:-1 group-title="France; News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English High
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="German;News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle English
+#EXTINF:-1 group-title="German; News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle English 1
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+#EXTINF:-1 group-title="German; News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle English 2
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
