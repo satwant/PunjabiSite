@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="France" group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English High
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="France" group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English Low
+#EXTINF:-1 group-title="France" group-title="NewsX" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English Low
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
