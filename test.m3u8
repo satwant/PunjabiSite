@@ -1,6 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/G7hGk8y.png",IIPC TV Canada
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/k9M5ydW.png",5AAB TV Canada
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/zXWgbVk.png",Amazing Discoveries Canada
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/uSX4YXL.png",BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Urdu" tvg-logo="https://i.imgur.com/zr6KoiS.jpg",Canada One Tv Pakistan
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="English Infotainment" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg",Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/X9LBFzK.jpg",QVTV Canada
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg",Pardesi TV Canada
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/LdGWsGj.png",Prime Asia Canada
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/AhbJjPL.jpg",Sardari TV Canada
