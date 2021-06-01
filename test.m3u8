@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="English News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/G7hGk8y.png",IIPC TV Canada
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/k9M5ydW.png",5AAB TV Canada
