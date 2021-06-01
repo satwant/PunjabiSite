@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/VsvBUCa.jpg",Bloomberg TV Australia 1
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/VsvBUCa.jpg",Bloomberg TV Australia 1
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="English Shopping" tvg-logo="https://i.imgur.com/2KzCShW.png",Expo Channel
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 1 Australia
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 2 Australia
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 3 Australia
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 High
