@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A2itv.it" tvg-name="A2itv" tvg-country="IT" tvg-language="English,French" tvg-logo="" group-title="",A2itv (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
