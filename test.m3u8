@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="France; News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English 
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="France; News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English High
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 High
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="German; News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle English 1
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle 1
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:-1 group-title="German; News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle English 2
+#EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle 2
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png",Jakarta Globe Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
