@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="English News" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png",ND RINT
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png",Test
+http://aolhdshls-lh.akamaihd.net/i/hplembedtest_1@140684/master.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png",RTE News Ireland
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png",BBC World News
