@@ -131,6 +131,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/G7hGk8y.png",IIPC TV Canada
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/19/e7/97/19e797bc-c33f-a821-c543-aa352187d873/source/256x256bb.jpg",Fastway TV USA
