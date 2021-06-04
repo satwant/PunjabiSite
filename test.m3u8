@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="English News",CNA Singapura
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/500px-Arirang-TV-Logo.svg.png",ARIRANG  
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://teevee-hd.com/img/aljazeera.png",Aljazeera News
@@ -49,6 +51,18 @@ http://45.126.83.51/dr9445/h/h15/02.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/400px-Eurosport_Logo_%282011-2015%29.svg.png" tvg-country="Spanish",EUROSPORTS 1
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.dens.tv/images/channel-logo/106.jpg" tvg-country="Indonesia",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/440px-ESPN_wordmark.svg.png" tvg-country="USA" group-title="Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/440px-ESPN_wordmark.svg.png" tvg-country="USA" group-title="Sports",ACC Network
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/440px-ESPN_wordmark.svg.png" tvg-country="USA" group-title="Sports",SEC Network
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/440px-ESPN_wordmark.svg.png" tvg-country="USA" group-title="Sports",ESPN fs2
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",Premier HD5 
@@ -101,6 +115,12 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-name="SETANTA SPORTS 2" tvg-language="Irish" tvg-logo="http://only4.tv/ch/5509.png" tvg-country="INT" tvg-url="" group-title="Sport",SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 tvg-id="setanta-sports" tvg-name="SETANTA SPORTS 1" tvg-language="Irish" tvg-logo="http://only4.tv/ch/5509.png" tvg-country="INT" tvg-url="" group-title="Sport",SETANTA SPORTS 1
+http://92.43.140.204:80/s81/index.m3u8
+#http://92.43.140.200/s81/04.m3u8
+#http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1 group-title="Hindi News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP News India 1
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
