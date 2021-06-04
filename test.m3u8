@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/500px-Arirang-TV-Logo.svg.png",ARIRANG  
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://teevee-hd.com/img/aljazeera.png",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="http://www.totiptv.com/Product/Channel/images/rt_b.png",RT TV
@@ -37,6 +39,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Figura1.png/revision/latest/scale-to-width-down/210?cb=20150202084846" tvg-id="ext",METRO TV 4  
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/520px-Radio_m2o_-_Logo_2019.svg.png",M2O TV  
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Retrochannel.jpg",RETRO TV  
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -214,3 +218,7 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 #EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/b3nn216.png",MTA Ahmadiyya UK
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/240px-Fashion_TV_logo.svg.png",FASHION MIDNIGHT 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
