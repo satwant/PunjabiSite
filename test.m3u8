@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movies Live"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family
-#https://live.we-play.tv/live/hbo-fam/chunks.m3u8?nimblesessionid=38843628&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjIyOjU5IEFNJmhhc2hfdmFsdWU9TUNrc0dzMEwwRGhQaCtxNUFFUUtPZz09JnZhbGlkbWludXRlcz0yMA==8
-#http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
-#https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:-1 group-title="English Movie"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family 1
+http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
+#EXTINF:-1 group-title="English Movie"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family 2
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="English News" tvg-logo="https://teevee-hd.com/img/aljazeera.png",Aljazeera News
 #http://160.119.77.116:8081/iptv/uk-aljazeera.stream/playlist.m3u8
