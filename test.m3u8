@@ -11,8 +11,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/media_w981409619_b1105254_3604.ts?fluxustv.m3u8
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="English News",CN China
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="English News",CNA Singapura
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/500px-Arirang-TV-Logo.svg.png",ARIRANG  
@@ -60,6 +61,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Retrochannel.jpg",RETRO TV  
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/HoiEo8f.png" group-title="Entertainment",Cine Romántico
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Entertainment",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="itv.gb" tvg-name="ITV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="Entertainment", ITV
@@ -160,82 +163,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://img.favpng.com/10/16/22/dd-national-india-doordarshan-television-channel-png-favpng-WJD9QyQZ2BUjh9nQ6NK9yRGcT.jpg",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
-
-#EXTINF:-1 group-title="India",ET Now
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg",Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/k9kHJv9.jpg",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/qJkwmlD.jpg",Gurbani Healing
-http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/lzmU9zr.png",Harvest TV USA
-https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png",Hiru TV
-http://cdncities.com/8012/8012/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/45232.png",IBC Comedy
-https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/ibc-1.png",IBC Tamil
-https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
-#EXTINF:-1 group-title="India",Janta TV
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/gIYOu4i.jpg",Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/SBUPUNm.png",Kadak Hits
-https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png",Kairali
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_1-3.png",Kairali News
-http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png",Kairali TV
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in_we.png",Kairali We
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",Kalaignar
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png",Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Kasthuri_TV.png",Kasthuri TV
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png",Kaumudy TV
-https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF:-1 group-title="India",Lok Sabha TV
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/magnavision-tv-white.png",Magna Vision TV
-https://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mangalam_tv_in.png",Mangalam TV
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/manorama_news_central.png",Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png",Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mathrubhumi_news.png",Mathrubhumi News
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-1.png",Mazhavil Manorama HD
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png",Media One
-http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png",Media One
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Mirror Now
-https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",MK Six
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",MK Tunes
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png",Nethra TV
-https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
-
 #EXTINF:-1 group-title="Indian Music" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Indian Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",7S Music
@@ -252,6 +179,8 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IB2/IB2_large.png",Outdoor Channel
 #http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+#http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/media_w981409619_b1105254_3604.ts?fluxustv.m3u8
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="English Infotainment" tvg-logo="https://i.imgur.com/9NsI8zT.jpg",RSTV RajyaSabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 group-title="English Infotainment" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg",Canada Star TV
