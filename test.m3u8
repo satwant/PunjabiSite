@@ -11,7 +11,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="English News",CN China
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="English News",CNA Singapura
@@ -61,6 +60,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Retrochannel.jpg",RETRO TV  
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5ab3e1242be690697279c75d" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="Entertainment",Wipeout
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=305&deviceId=5ab3e1242be690697279c75d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/HoiEo8f.png" group-title="Entertainment",Cine Romántico
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Entertainment",Fox HD
