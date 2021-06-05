@@ -1,15 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="English Movie",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-flix-hd-logo.jpg",FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="English Movie"tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax
+#EXTINF:-1 tvg-id="" group-title="English Movie" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax
 #http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IB2/IB2_large.png",Outdoor Channel
-#http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+
 #http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/media_w981409619_b1105254_3604.ts?fluxustv.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="English News",CNA Singapura
@@ -59,6 +61,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Retrochannel.jpg",RETRO TV  
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="itv.gb" tvg-name="ITV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="Entertainment", ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/02.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
@@ -241,6 +245,12 @@ https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.
 #EXTINF:-1 group-title="Religion Hindi" tvg-logo="https://i.imgur.com/ibnqDAD.png",Shubhsandesh
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="Infotainment",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="Infotainment",PBS
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IB2/IB2_large.png",Outdoor Channel
+#http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="English Infotainment" tvg-logo="https://i.imgur.com/9NsI8zT.jpg",RSTV RajyaSabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 group-title="English Infotainment" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg",Canada Star TV
