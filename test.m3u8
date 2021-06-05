@@ -31,6 +31,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 High
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbISY58.jpg" group-title="English News", CGTN China
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nWPwei.jpg" group-title="English News", NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle 1
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",Deutsche Welle 2
@@ -73,6 +77,13 @@ http://45.126.83.51/dr9445/h/h15/02.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3TvZtd.png" group-title="Kids",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aemny9A.jpg" group-title="Sports", GOLF CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPn8YxM.jpg" group-title="Sports", TENNIS B
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/400px-Eurosport_Logo_%282011-2015%29.svg.png" tvg-country="Spanish",EUROSPORTS 1
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dens.tv/images/channel-logo/106.jpg" tvg-country="Indonesia",TVRI SPORT
@@ -149,6 +160,10 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-id="fastfunbox-hd" tvg-name="Fast&FunBox HD" tvg-logo="https://i.imgur.com/zao81l9.png" group-title="Sport",Fast & Fun Box Русский
 http://ott-cdn.ucom.am/s79/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7zvZSo.jpg" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPn8YxM.jpg" group-title="Sport", TENNIS C
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 group-title="Hindi News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP News India 1
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
@@ -233,6 +248,8 @@ https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 #EXTINF:-1 group-title="Religion English" tvg-logo="https://i.imgur.com/b3nn216.png",MTA Ahmadiyya UK
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIlYoTo.png"  group-title="Lifestyle",TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/240px-Fashion_TV_logo.svg.png",FASHION MIDNIGHT 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
