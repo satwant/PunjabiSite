@@ -175,6 +175,8 @@ http://ott-cdn.ucom.am/s79/index.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPn8YxM.jpg" group-title="Sport", TENNIS C
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="Sport" tvg-name="KTV Sport ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",KTV Sport (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 
 #EXTINF:-1 group-title="Hindi News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP News India 1
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
