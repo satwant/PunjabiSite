@@ -32,6 +32,11 @@
   </properties>
 
   <dependencies>
+  <dependency>
+    <groupId>io.lindstrom</groupId>
+    <artifactId>m3u8-parser</artifactId>
+    <version>0.19</version>
+</dependency>
     <!-- Spring and Spring Boot dependencies -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
