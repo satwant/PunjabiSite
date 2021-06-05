@@ -5,16 +5,23 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pa76wzj.jpg" group-title="English Movie", HBO Multi Bahasa
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j83f8jq.jpg" group-title="English Movie", HBO Hits Multi Bahasa
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-flix-hd-logo.jpg",FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="English Movie" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax
 #http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1tvg-logo="https://i.imgur.com/DxPaO6p.jpg" group-title="English Movie", My Cinema
+http://210.210.155.35/session/7d30d14e-b414-11ea-934d-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="English News",CN China
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="English News",CNA Singapura
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/500px-Arirang-TV-Logo.svg.png",ARIRANG  
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://teevee-hd.com/img/aljazeera.png",Aljazeera News
@@ -73,9 +80,13 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="itv.gb" tvg-name="ITV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="Entertainment", ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/02.m3u8
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+#http://45.126.83.51/dr9445/h/h15/02.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56EPJLc.jpg" group-title="Entertainment", AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e3TvZtd.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
@@ -176,6 +187,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/3yumcV3.jpg",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myYCUYA.jpg" group-title="Business", Bloomberg TV Asia
+https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://img.favpng.com/10/16/22/dd-national-india-doordarshan-television-channel-png-favpng-WJD9QyQZ2BUjh9nQ6NK9yRGcT.jpg",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
