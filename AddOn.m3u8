@@ -13,3 +13,211 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 group-title="Sport" tvg-country="SE" tvg-language="Swedish" ,ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-name="ert.ertsports.gr" group-title="KINGS x LM x ALL" ,ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ERT SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ERT SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ASSP 1 My(setAuto)
+http://96.44.140.132:18006/view.php
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ASSP 2 My(setAuto)
+http://96.44.140.132:18006/view.php
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ASSP 3 My(setAuto)
+http://96.44.140.132:18006/view.php
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ASSP 4 My(setAuto)
+http://96.44.140.132:18006/view.php
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Setanta1(setNative)
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Setanta2(setNative)
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,True Premier HD 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,True Premier HD 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,True Premier HD 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,True Premier HD 4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,True Premier HD 5
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,МАТЧ! СТРАНА
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/107/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матch +2
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6012/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матch +4
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6023/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матch +8
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6052/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Sony Turbo
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/708/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Golf TV FR
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6066/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Motorvision TV DE
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6112/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Sky Racing AU
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6122/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,CANAL+ SPORT 2 PL
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6099/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Band Sports BR
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6158/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч! Планета
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/123/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч! Футбол 1
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/124/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,KHL
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/519/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч! Футбол 3
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/522/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч! Арена
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/528/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч! Игра
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/529/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч! Футбол 2
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/530/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,МАТЧ ПРЕМЬЕР
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/531/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч ТВ
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/535/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Eurosport 1
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/141/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Extreme Sports
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/144/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Матч! Боец
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/150/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Viasat Sport
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/160/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,M-1 Global TV
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/843/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,KINGS x LM x ALL Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ufc2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,UFC stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,FIGHT Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,EDGE SPORT HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Skynetsport HD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Skynetsport 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Skynetsport 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Skynetsport 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Skynetsport 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Skynetsport 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Skynetsport 6
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Cctv5
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ElevenSport1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ElevenSport2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,SportTv1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,SportTv2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,SportTv3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,SportTv4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,SportTv5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Match1
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Match2
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Match3
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,PTVsport
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,RacingCom
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,Tennis+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 group-title="KINGS x LM x ALL" ,ALL sport
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="KINGSS" ,МАТЧ! СТРАНА
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/107/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матch +2
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6012/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матch +4
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6023/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матch +8
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6052/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Golf TV FR
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6066/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Motorvision TV DE
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6112/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Sky Racing AU
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6122/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,CANAL+ SPORT 2 PL
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6099/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Band Sports BR
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6158/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч! Планета
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/123/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч! Футбол 1
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/124/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,KHL
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/519/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч! Футбол 3
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/522/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч! Арена
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/528/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч! Игра
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/529/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч! Футбол 2
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/530/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,МАТЧ ПРЕМЬЕР
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/531/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч ТВ
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/535/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Eurosport 1
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/141/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Extreme Sports
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/144/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Матч! Боец
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/150/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,Viasat Sport
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/160/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,M-1 Global TV
+http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/843/index.m3u8
+#EXTINF:-1 group-title="KINGSS" ,RedBullTv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="KINGSS" ,OneGolf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINGSS" ,TennisChannel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="KINGSS" ,RTM SPORT
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="Sport",All Sports (1080p)
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
