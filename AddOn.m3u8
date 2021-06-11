@@ -1,4 +1,62 @@
 #EXTM3U
+#EXTINF:-1 group-title="Sports Premium" ,ESPN U ( Mynetqu.id )
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,ESPN News ( Mynetqu.id )
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,ESPN 2 ( Mynetqu.id )
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="Sports Premium" tvg-logo="https://www.dens.tv/images/channel-logo/106.jpg" ,TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Sports Premium" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tm-turkmenistan-spor.jpg" ,Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sports Premium" tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Edge-Sport_Logo_655440.jpg" ,EDGE Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sports Premium" tvg-logo="https://cdn.mos.cms.futurecdn.net/qrm3fYJUUh5acecbuVGuDV-650-80.jpg" ,Tennis Chanel 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="Sports Premium" tvg-logo="https://cdn.mos.cms.futurecdn.net/qrm3fYJUUh5acecbuVGuDV-650-80.jpg" ,Tennis Chanel 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Sports Premium" tvg-logo="https://yt3.ggpht.com/a/AATXAJxr-RkDoulCMCWuOvowAhTipmA3fUW-jljvRPpb2fI=s900-c-k-c0xffffffff-no-rj-mo" ,GOLF
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Bahrain Sport 2
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Dubai Sports 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,DD SPORT
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,DD SPORT
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,BRT Sport
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,TELE MONTE NEVE
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,TELE MONTE NEVE 3
+http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Racing.com
+http://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1 group-title="Sports Premium" ,STAR SPORTS SELECT 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1 group-title="Sports Premium" ,SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Astrakhan.ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,Astrakhan.ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,ACC Network
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 group-title="Sports Premium" ,SEC Network
+https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" , CH 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" ,  NBT
